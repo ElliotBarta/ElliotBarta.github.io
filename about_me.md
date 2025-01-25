@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: about_me
 layout: template
-filename:  project.md
+filename:  about_me.md
 --- 
