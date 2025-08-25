@@ -1,29 +1,34 @@
 
 
-#### Education
-## University of Wisconsin-Madison 
-# Economics, Statistics, Data Science
+ Education
+# University of Wisconsin-Madison 
+## Economics, Statistics, Data Science
 
-### Work Experience 
-Editor @ Data Annotation
+ Work Experience 
+# Editor @ Data Annotation
 -
 -
-Undergraduate Researcher @ University of Wisconsin-Madison
+# Undergraduate Researcher @ University of Wisconsin-Madison
 -
 -
-Math and Econ Tutor @ University of Wisconsin-Madison
+# Math and Econ Tutor @ University of Wisconsin-Madison
 -
 -
 
-### Projects
+# Projects
 
-Labor Productivity Forecast
+## Labor Productivity Forecast
+###Project Link: [Project](https://username.github.io/repository-name/)
+
 -
 -
-Brewers Season Analysis
+## Brewers Season Analysis
+###Project Link: [Project](https://username.github.io/repository-name/)
+
 -
 -
-Milwaukee Housing Market Analysis
+## Milwaukee Housing Market Analysis
+###Project Link: [Project](https://username.github.io/repository-name/)
 -
 -
 
