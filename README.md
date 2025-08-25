@@ -23,7 +23,7 @@
 -
 -
 ## Brewers Season Analysis
-### Project Link: [Project](https://ElliotBarta.github.io/contact)
+### Project Link: [Project](https://ElliotBarta.github.io/Brewers)
 
 -
 -
