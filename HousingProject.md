@@ -1,5 +1,5 @@
 layout: page
-title: "HousingProject"
+title: "Housing"
 permalink: /Housing
 
 Hi
