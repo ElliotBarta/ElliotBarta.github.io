@@ -18,17 +18,17 @@
 # Projects
 
 ## Labor Productivity Forecast
-###Project Link: [Project](https://username.github.io/repository-name/)
+### Project Link: [Project](https://ElliotBarta.github.io/about/Forecasting)
 
 -
 -
 ## Brewers Season Analysis
-###Project Link: [Project](https://username.github.io/repository-name/)
+### Project Link: [Project](https://ElliotBarta.github.io/Brewers/contact)
 
 -
 -
 ## Milwaukee Housing Market Analysis
-###Project Link: [Project](https://username.github.io/repository-name/)
+### Project Link: [Project](https://ElliotBarta.github.io/about/Housing)
 -
 -
 
