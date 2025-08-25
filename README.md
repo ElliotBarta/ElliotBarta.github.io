@@ -1,6 +1,6 @@
 
 
-### Education
+#### Education
 ## University of Wisconsin-Madison 
 # Economics, Statistics, Data Science
 
