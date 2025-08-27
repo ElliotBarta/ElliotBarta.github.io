@@ -4,8 +4,6 @@
 * GPA: 4.0/4.0
 * Relevant Coursework: Machine Learning, Econometrics, Statistical Experimental Design, Stochastic Processes, Optimization, Multivariate Analysis
 
----
-
 # Work Experience
 ## Editor @ Data Annotation
 * Preprocessed and validated **50+ NLP datasets**, applying feature engineering, labeling, and data quality standards for ML model training.
@@ -20,8 +18,6 @@
 ## Math & Econ Tutor @ Greater University Tutoring Service
 * Explained regression, optimization, and predictive modeling concepts to **10+ students**, strengthening quantitative reasoning and analytical skills.
 
----
-
 # Projects
 ## Econometric Forecasting
 ### Project Link: [Project](https://ElliotBarta.github.io/Forecasting)
@@ -34,11 +30,9 @@
 * Modeled non-linear trends using cubic spline interpolation, uncovering actionable performance insights.
 
 ## Milwaukee Housing Market Analysis
-### Project Link: [Project](https://ElliotBarta.github.io/Housing)
+### Project Link: [Project](https://ElliotBarta.github.io/HousingProject)
 * Clustered **5,000 properties** with k-means (unsupervised learning) to identify spatial pricing trends.
 * Analyzed features (location, property type, amenities) and built models predicting housing prices.
-
----
 
 ## Technical Skills
 * **Languages:** Python, SQL, R, MATLAB, STATA, Java, JavaScript
