@@ -3,7 +3,7 @@ title: "Housing"
 permalink: /Housing
 
 This project focuses on Housing prices in the Milwaukee area in 2024.
-This project was written in R.
+This project was written in R and uses multivariate statistics.
 
 <iframe src="assets/Housing.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: 
