@@ -45,4 +45,3 @@
 * **Statistics/ML:** Supervised/Unsupervised Learning, Regression, Classification, Clustering, PCA, Time Series, ANOVA, ARMA/ARIMA, Causal Inference, A/B Testing
 * **Frameworks/Tools:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Jupyter, ETL Pipelines
 * **Visualization:** Matplotlib, Seaborn, ggplot2, Tableau, Power BI
-* **Methodologies:** Agile, Feature Engineering, Data Preprocessing, Cross-Functional Collaboration
