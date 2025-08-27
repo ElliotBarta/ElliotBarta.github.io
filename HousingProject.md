@@ -1,7 +1,3 @@
-layout: page
-title: "Housing"
-permalink: /Housing
-
 This project focuses on Housing prices in the Milwaukee area in 2024.
 This project was written in R and uses multivariate statistics.
 
