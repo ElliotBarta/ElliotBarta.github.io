@@ -1,7 +1,3 @@
-layout: page
-title: "Forecating"
-permalink: /Forecasting
-
 This project was for Econ 460: Econometric Forecasting at the University of Wisconsin-Madison.
 This project uses STATA and focuses on labor productivity.
 
