@@ -1,4 +1,4 @@
-
+# Portfolio of Elliot Barta
 # Education
 ## University of Wisconsin-Madison
 ### B.S. Statistics, Data Science, Economics
