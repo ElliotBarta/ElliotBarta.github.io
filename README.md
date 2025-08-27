@@ -1,4 +1,3 @@
-
 # Education
 ## University of Wisconsin-Madison
 ### B.S. Statistics, Data Science, Economics
