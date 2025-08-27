@@ -1,4 +1,4 @@
-#Portfolio of Elliot Barta
+# Portfolio of Elliot Barta
 
 # Education
 ## University of Wisconsin-Madison
