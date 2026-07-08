@@ -1,6 +1,6 @@
 ---
 layout: default
-title: README
+title: index
 ---
 
 # Portfolio of Elliot Barta
