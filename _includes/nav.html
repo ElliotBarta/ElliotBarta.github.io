@@ -1,6 +1,6 @@
 <nav class="navbar">
   <ul>
-    {% assign nav_items = "index" | split: "," %}
+    {% assign nav_items = "home" | split: "," %}
     {% for item in nav_items %}
       {% assign page_url = item | downcase | replace: "home", "" %}
       
