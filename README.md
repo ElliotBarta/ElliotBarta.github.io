@@ -1,3 +1,8 @@
+---
+layout: default
+title: README
+---
+
 # Portfolio of Elliot Barta
 # Education
 ## University of Wisconsin-Madison
