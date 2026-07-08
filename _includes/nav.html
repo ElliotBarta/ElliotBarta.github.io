@@ -1,0 +1,15 @@
+<nav class="navbar">
+  <ul>
+    {% assign nav_items = "Home,About,Projects,Contact" | split: "," %}
+    {% for item in nav_items %}
+      {% assign page_url = item | downcase | replace: "home", "" %}
+      
+      <li>
+        <a href="{{ '/' | relative_url }}{{ page_url }}" 
+           class="{% if page.title == item %}active{% endif %}">
+           {{ item }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
