@@ -1,6 +1,6 @@
 ---
 layout: default
-title: index
+title: Home
 ---
 
 # Portfolio of Elliot Barta
