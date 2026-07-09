@@ -1,17 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  {% include head.html %}
-</head>
-<body>
-  {% include nav.html %}
+<html lang="en-us">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include nav.html %} 
 
-  <main>
-    {{ content }}
-  </main>
+    <section class="page-header">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+    </section>
 
-  <footer>
-    <p>Site footer content</p>
-  </footer>
-</body>
+    <section class="main-content">
+      {{ content }}
+    </section>
+  </body>
 </html>
