@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Portfolio of Elliot Barta
 description: Welcome!
+include:
+  - _includes/head_custom.html
